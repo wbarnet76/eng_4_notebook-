@@ -60,5 +60,5 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 ### Test Image
 
 ### Test GIF
-![sppokie scary skellie](![image](https://github.com/wbarnet76/eng_4_notebook-/assets/71402909/551485e3-dfd6-41b6-8df1-97115e9bd11e)
+![sppokie scary skellie](![image]([https://github.com/wbarnet76/eng_4_notebook-/assets/71402909/551485e3-dfd6-41b6-8df1-97115e9bd11e](https://github.com/wbarnet76/eng_4_notebook-/blob/main/1497533116-not-dead.gif)https://github.com/wbarnet76/eng_4_notebook-/blob/main/1497533116-not-dead.gif)
 
