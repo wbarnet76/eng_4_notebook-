@@ -26,13 +26,3 @@ for x in range(11):
 while True:
   green.value = True
   print("liftoff")
-  
-    
-
-
-
-#  while True:
-#  red.value = True
-#  time.sleep(0.5)
-#  red.value = False
-#  time.sleep(0.5)
