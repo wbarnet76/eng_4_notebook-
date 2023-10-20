@@ -131,15 +131,3 @@ Expanding on the code used in my other assignments this year by adding a servo p
 
 &nbsp;
 
-
-## Media Test
-
-Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
-
-### Test Link
-
-### Test Image
-
-### Test GIF
-![sppokie scary skellie]![image]([https://github.com/wbarnet76/eng_4_notebook-/assets/71402909/551485e3-dfd6-41b6-8df1-97115e9bd11e](https://github.com/wbarnet76/eng_4_notebook-/blob/main/1497533116-not-dead.gif)https://github.com/wbarnet76/eng_4_notebook-/blob/main/1497533116-not-dead.gif)
-
