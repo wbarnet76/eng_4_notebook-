@@ -7,7 +7,12 @@
 * [Launch Pad Part 2 (Lights)](#Launch_Pad_Part_2_(Lights))
 * [Launch Pad Part 3 (Button)](#Launch_Pad_Part_3_(Button))
 * [Launch Pad Part 4 (Servo)](#Launch_Pad_Part_4_(Servo))
+* [Crash Avoidance Part 1 (Accelerometer)](#Launch_Pad_Part_4_(Servo))
 &nbsp;
+
+&nbsp;
+# Launch pad assignments
+
 
 ## Launch Pad Part 1 (Countdown)
 
@@ -131,3 +136,39 @@ Expanding on the code used in my other assignments this year by adding a servo p
 
 &nbsp;
 
+# Crash avoidance assignments
+&nbsp;
+
+## Crash Avoidance Part 1 (Accelerometer)
+
+
+### Assignment Description
+
+
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+
+### Evidence
+
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does.
+
+
+### Wiring
+
+
+This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch.
+
+
+### [Link to the code]()
+
+
+
+
+### Reflection
+
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+
+&nbsp;
