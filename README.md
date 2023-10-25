@@ -61,7 +61,7 @@ Use your code from the last assignment [Launch Pad Part 1 (Countdown)](#Launch_P
 ### Evidence
 
 
-   ![Picture Name Here](images/My_Project4.gif)
+![Picture Name Here](images/My_Project4.gif)
 
 
 ### Wiring
@@ -93,13 +93,13 @@ Use the last two assignments [Launch Pad Part 1 (Countdown)](#Launch_Pad_Part_1_
 ### Evidence
 
 
-    Pictures / Gifs of your work should go here. You need to communicate what your thing does.
+![Picture Name Here](images/My_Project3.gif)
 
 
 ### Wiring
 
 
-    This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch.
+![Picture Name Here](images/IMG_1565.jpg)
 
 
 ### [Link to the code](https://github.com/wbarnet76/eng_4_notebook-/blob/main/raspberry-pi/liftoff_button.py)
@@ -123,13 +123,13 @@ This assignments has you use all of the prior assignments [Launch Pad Part 1 (Co
 ### Evidence
 
 
-    Pictures / Gifs of your work should go here. You need to communicate what your thing does.
+  ![Picture Name Here](images/My_Project5.gif)
 
 
 ### Wiring
 
 
-    This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch.
+   ![Picture Name Here](images/IMG_1566.jpg)
 
 
 ### [Link to the code](https://github.com/wbarnet76/eng_4_notebook-/blob/main/raspberry-pi/LIFTOFF_servo.py)
@@ -161,13 +161,13 @@ Write your assignment description here. What is the purpose of this assignment? 
 ### Evidence
 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does.
+![Picture Name Here](images/My_Project1.gif)
 
 
 ### Wiring
 
 
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch.
+![Picture Name Here](images/IMG_1564.jpg)
 
 
 ### [Link to the code](https://github.com/wbarnet76/eng_4_notebook-/blob/main/raspberry-pi/acelaromter.py)
@@ -195,13 +195,13 @@ The requirements for this project is to add lights and power. For the lights par
 ### Evidence
 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does.
+![Picture Name Here](images/My_Project2w.gif)
 
 
 ### Wiring
 
 
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch.
+![Picture Name Here](images/IMG_1564.jpg)
 
 
 ### [Link to the code](https://github.com/wbarnet76/eng_4_notebook-/blob/main/raspberry-pi/crash_a_pt_2.py)
