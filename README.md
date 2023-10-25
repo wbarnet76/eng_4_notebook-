@@ -3,12 +3,22 @@
 &nbsp;
 
 ## Table of Contents
+
+### Q1 coding
 * [Launch Pad Part 1 (Countdown)](#Launch_Pad_Part_1_(Countdown))
 * [Launch Pad Part 2 (Lights)](#Launch_Pad_Part_2_(Lights))
 * [Launch Pad Part 3 (Button)](#Launch_Pad_Part_3_(Button))
 * [Launch Pad Part 4 (Servo)](#Launch_Pad_Part_4_(Servo))
-* [Crash Avoidance Part 1 (Accelerometer)](#Launch_Pad_Part_4_(Servo))
+* [Crash Avoidance Part 1 (Accelerometer)](#Crash_Avoidance_Part_1_(Accelerometer))
+* [Crash Avoidance Part 1 (Light + Power)](Crash_Avoidanc_Part_1_(Light_+_Power))
 &nbsp;
+
+### Q1 CAD
+* [FEA Part 1 (Beam Design)](FEA_Part_1_(Beam_Design))
+* [FEA Part 3 (Analysis)](FEA_Part_3_(Analysis))
+* [FEA Part 4 (Iterative Design)](FEA_Part_4_(Iterative_Design))
+&nbsp;
+
 
 &nbsp;
 # Launch pad assignments
@@ -172,3 +182,4 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 
 &nbsp;
+
