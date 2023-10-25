@@ -61,7 +61,7 @@ Use your code from the last assignment [Launch Pad Part 1 (Countdown)](#Launch_P
 ### Evidence
 
 
-   ![Picture Name Here](images/My_Project_(3).gif)
+   ![Picture Name Here](images/My_Project4.gif)
 
 
 ### Wiring
