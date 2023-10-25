@@ -216,3 +216,101 @@ This assignment was a lot of fun for me because it was a mixed assignment as it 
 
 
 &nbsp;
+# CAD assignments
+&nbsp;
+
+## FEA Part 1 (Beam Design)
+
+
+### Assignment Description
+
+
+Starting in CAD this year is the beam design, for this one the job is to make a sturdy beam design that is under 13g and 180mm long. Then we test the beam to failure. The ways to fail are the beam dislaces 35, or snaps. These beams are 3d printed so the beams can't have angles under 45 degrees or overhangs because the 3d printer will throw a fit.
+
+
+### Part Link
+
+
+### [link to Onshape document](https://cvilleschools.onshape.com/documents/a0ee0fd238045dedbffc5568/w/546caeaada3c8b4c237ca2cc/e/3282756a5f5731191b2b56af)
+
+### Part Image
+
+
+![Picture Name Here](images/vertcal_verson_(2).png)
+
+
+### Reflection
+
+
+Jumping back into cad for the first time this year was fun and this assignment was a great one to start on because it had a lot of requirements but left room for creativity in your designs. The no overhang requirement made me annoyed because I had a fun idea to use a helix as the beam but it had too many overhangs. Later I simulated it with FEA and it turned out it was a horrible design but I am still a little annoyed that I didn't get to try it out.
+
+
+
+&nbsp;
+
+## FEA Part 3 (Analysis)
+
+FEA part 2 was skipped because it is a learning assignment for FEA
+### Assignment Description
+
+Take the beam that was bult in the last assignment and put into onshape’s built in FEA (Finite Element Analysis)  program to figure out what needs to be revised to make the beam more stable and add to the mass that your beam can hold.
+
+
+
+### Part Link
+
+
+### [link to Onshape document](https://cvilleschools.onshape.com/documents/a0ee0fd238045dedbffc5568/w/55686c014d636dc83c55b275/e/1352ff57328f37306558e33d)
+
+
+
+
+### Part Image
+
+
+![Picture Name Here](images/Assembly_1.png)
+
+
+![Picture Name Here](images/Assembly_1_(1).png)
+
+### Reflection
+
+
+ My team and i forgot to turn in the beam so it did not get printed so we had no data to work with in the analysis phase but our original beam would probably place in the middle of the groupes that had trials. 
+
+
+
+&nbsp;
+
+## FEA Part 4 (Iterative Design)
+
+
+### Assignment Description
+
+
+Take the data form your test and the FEA analysis and revise/remake your beam. 
+
+
+
+### Part Link
+
+
+### [link to Onshape document](https://cvilleschools.onshape.com/documents/a0ee0fd238045dedbffc5568/w/a2f252e180c3c964169692d2/e/1352ff57328f37306558e33d)
+
+
+
+
+### Part Image
+
+
+![Picture Name Here](images/vertcal_verson_(1).png)
+
+
+### Reflection
+
+
+With out the data from the fist beam test it was difficult for my tem to make. 
+
+
+
+&nbsp;
