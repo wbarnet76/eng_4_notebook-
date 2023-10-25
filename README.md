@@ -61,13 +61,13 @@ Use your code from the last assignment [Launch Pad Part 1 (Countdown)](#Launch_P
 ### Evidence
 
 
-    Pictures / Gifs of your work should go here. You need to communicate what your thing does.
+   ![Picture Name Here](images/My_Project_(3).gif)
 
 
 ### Wiring
 
 
-   ![Picture Name Here](images/IMG_1509.jpg)
+![Picture Name Here](images/IMG_1509.jpg)
 
 
 ### [Link to the code](https://github.com/wbarnet76/eng_4_notebook-/blob/main/raspberry-pi/liftoff_pt1.py)
