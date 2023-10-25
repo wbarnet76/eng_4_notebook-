@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
-### Q1 coding
+### Q1 Coding
 * [Launch Pad Part 1 (Countdown)](#Launch_Pad_Part_1_(Countdown))
 * [Launch Pad Part 2 (Lights)](#Launch_Pad_Part_2_(Lights))
 * [Launch Pad Part 3 (Button)](#Launch_Pad_Part_3_(Button))
 * [Launch Pad Part 4 (Servo)](#Launch_Pad_Part_4_(Servo))
 * [Crash Avoidance Part 1 (Accelerometer)](#Crash_Avoidance_Part_1_(Accelerometer))
-* [Crash Avoidance Part 1 (Light + Power)](Crash_Avoidanc_Part_1_(Light_+_Power))
+* [Crash Avoidance Part 1 (Light + Power)](Crash_Avoidanc_Part_2_(Light_+_Power))
 &nbsp;
 
 ### Q1 CAD
@@ -170,7 +170,7 @@ Pictures / Gifs of your work should go here. You need to communicate what your t
 This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch.
 
 
-### [Link to the code]()
+### [Link to the code](https://github.com/wbarnet76/eng_4_notebook-/blob/main/raspberry-pi/acelaromter.py)
 
 
 
@@ -183,3 +183,36 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 &nbsp;
 
+## Crash Avoidance Part 2 (Light + Power)
+
+
+### Assignment Description
+
+
+The requirements for this project is to add lights and power. For the lights part you need to make the lights light up at certain values or past those values. For the power part your job is to make the PICO “headless” to have it not attached to the computer to make the PICO headless you need a battery that is wiring in to the PICO. 
+
+
+### Evidence
+
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does.
+
+
+### Wiring
+
+
+This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch.
+
+
+### [Link to the code](https://github.com/wbarnet76/eng_4_notebook-/blob/main/raspberry-pi/crash_a_pt_2.py)
+
+
+
+
+### Reflection
+
+
+This assignment was a lot of fun for me because it was a mixed assignment as it had harder wiering and coding rather than just one or the other. The battery wiring proved to be difficult not because I did it wrong but because I forgot to charge the battery. And a similar thing happened with the lights i had a burnt out LED
+
+
+&nbsp;
